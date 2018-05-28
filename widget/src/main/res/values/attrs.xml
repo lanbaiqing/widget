@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DampView">
+        <attr name="scroll_left" format="boolean"/>
+        <attr name="scroll_right" format="boolean"/>
+        <attr name="scroll_top" format="boolean"/>
+        <attr name="scroll_bottom" format="boolean"/>
+        <attr name="scroll_child" format="reference"/>
+    </declare-styleable>
+</resources>
