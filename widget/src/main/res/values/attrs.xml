@@ -5,6 +5,5 @@
         <attr name="scroll_right" format="boolean"/>
         <attr name="scroll_top" format="boolean"/>
         <attr name="scroll_bottom" format="boolean"/>
-        <attr name="scroll_child" format="reference"/>
     </declare-styleable>
 </resources>
